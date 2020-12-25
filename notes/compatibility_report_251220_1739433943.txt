@@ -1,0 +1,184 @@
+Font f_normal has been converted to font family Minecraftia (Regular) - Font has been regenerated, small inconsistencies may occur
+Font f_normal_title has been converted to font family Minecraftia (Regular) - Font has been regenerated, small inconsistencies may occur
+Font f_capital has been converted to font family Consolas (Regular) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\obj_floor\Draw_0.gml
+Converted description /// @description DRAW FLOOR
+
+Converting GML script: ${project_dir}\objects\obj_ceiling2\Draw_0.gml
+Converted description /// @description DRAW FLOOR
+
+Converting GML script: ${project_dir}\objects\obj_wall\Draw_0.gml
+Converted description /// @description DRAW WALL
+
+Converting GML script: ${project_dir}\objects\obj_wall_building\Draw_0.gml
+Converted description /// @description DRAW WALL
+
+Converting GML script: ${project_dir}\objects\obj_player\Create_0.gml
+Converted description /// @description INITIALIZE PLAYER OBJECT
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_2.gml
+Converted string - line 9: '1' -> "1"
+Converted string - line 15: '2' -> "2"
+Converted string - line 21: '3' -> "3"
+Converted string - line 27: '4' -> "4"
+Converted string - line 311: 'R' -> "R"
+Converted string - line 312: 'K' -> "K"
+
+Converting GML script: ${project_dir}\objects\obj_player\Draw_64.gml
+Converted description /// @description Draw crossair
+
+Converting GML script: ${project_dir}\objects\obj_player\Draw_0.gml
+Converted description /// @description DRAW CAMERA
+
+Converting GML script: ${project_dir}\objects\obj_zombie\Create_0.gml
+Converted description /// @description Zombie enemy
+
+Converting GML script: ${project_dir}\objects\obj_zombie\Other_10.gml
+Converted description /// @description getting hurt
+
+Converting GML script: ${project_dir}\objects\obj_zombie\Other_7.gml
+Converted description /// @description sprite stuff
+
+Converting GML script: ${project_dir}\objects\obj_zombie\Draw_0.gml
+Converted description /// @description draw enemy
+
+Converting GML script: ${project_dir}\objects\obj_hand\Draw_64.gml
+Converted description /// @description Draw the sprite on GUI layer
+
+Converting GML script: ${project_dir}\objects\obj_pistol\Draw_64.gml
+Converted description /// @description Draw the sprite on GUI layer
+
+Converting GML script: ${project_dir}\objects\obj_machinegun\Draw_64.gml
+Converted description /// @description Draw the sprite on GUI layer
+
+Converting GML script: ${project_dir}\objects\obj_shotgun\Draw_64.gml
+Converted description /// @description Draw the sprite on GUI layer
+
+Converting GML script: ${project_dir}\objects\obj_behak_about\Draw_64.gml
+Converted string - line 3: 'S' -> "S"
+Converted string - line 9: 'W' -> "W"
+
+Converting GML script: ${project_dir}\objects\obj_behak_help\Draw_64.gml
+Converted string - line 3: 'S' -> "S"
+Converted string - line 9: 'W' -> "W"
+
+Converting GML script: ${project_dir}\objects\obj_behak_settings\Draw_64.gml
+Converted string - line 3: 'S' -> "S"
+Converted string - line 9: 'W' -> "W"
+
+Converting GML script: ${project_dir}\objects\obj_behak_exit\Draw_64.gml
+Converted string - line 3: 'S' -> "S"
+Converted string - line 9: 'W' -> "W"
+
+Converting GML script: ${project_dir}\objects\obj_fade_menu_help\Draw_0.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_fade_help_settings\Draw_0.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_fade_help_about\Draw_0.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_fade_menu_exit\Draw_0.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_fade_menu\Draw_0.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_fade_help\Draw_0.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_fade_game\Draw_0.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_menu\Step_0.gml
+Converted string - line 1: 'D' -> "D"
+Converted string - line 3: 'A' -> "A"
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 60
+Added compatibility script 'action/action_if.gml'
+Added compatibility script 'background/background_get_texture.gml'
+Added compatibility script 'd3d/d3d_draw_ellipsoid.gml'
+Added compatibility script 'd3d/d3d_draw_floor.gml'
+Added compatibility script 'd3d/d3d_draw_wall.gml'
+Added compatibility script 'd3d/d3d_end.gml'
+Added compatibility script 'd3d/d3d_model_create.gml'
+Added compatibility script 'd3d/d3d_model_draw.gml'
+Added compatibility script 'd3d/d3d_model_load.gml'
+Added compatibility script 'd3d/d3d_model_primitive_begin.gml'
+Added compatibility script 'd3d/d3d_model_primitive_end.gml'
+Added compatibility script 'd3d/d3d_model_vertex.gml'
+Added compatibility script 'd3d/d3d_model_vertex_color.gml'
+Added compatibility script 'd3d/d3d_model_vertex_normal.gml'
+Added compatibility script 'd3d/d3d_model_vertex_normal_color.gml'
+Added compatibility script 'd3d/d3d_model_vertex_normal_texture.gml'
+Added compatibility script 'd3d/d3d_model_vertex_normal_texture_color.gml'
+Added compatibility script 'd3d/d3d_model_vertex_texture.gml'
+Added compatibility script 'd3d/d3d_model_vertex_texture_color.gml'
+Added compatibility script 'd3d/d3d_model_wall.gml'
+Added compatibility script 'd3d/d3d_primitive_begin_texture.gml'
+Added compatibility script 'd3d/d3d_primitive_end.gml'
+Added compatibility script 'd3d/d3d_set_culling.gml'
+Added compatibility script 'd3d/d3d_set_depth.gml'
+Added compatibility script 'd3d/d3d_set_fog.gml'
+Added compatibility script 'd3d/d3d_set_hidden.gml'
+Added compatibility script 'd3d/d3d_set_perspective.gml'
+Added compatibility script 'd3d/d3d_set_projection_ext.gml'
+Added compatibility script 'd3d/d3d_start.gml'
+Added compatibility script 'd3d/d3d_vertex_normal_texture.gml'
+Added compatibility script 'd3d/__d3d_model_add_vertex.gml'
+Added compatibility script 'draw/draw_set_alpha_test.gml'
+Added compatibility script 'draw/draw_set_alpha_test_ref_value.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'texture/texture_set_interpolation.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'd3d/__init_d3d.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'd3d/d3d_model_block.gml'
+Added compatibility script 'd3d/d3d_model_clear.gml'
+Added compatibility script 'd3d/d3d_model_cone.gml'
+Added compatibility script 'd3d/d3d_model_cylinder.gml'
+Added compatibility script 'd3d/d3d_model_ellipsoid.gml'
+Added compatibility script 'd3d/d3d_model_floor.gml'
+Added compatibility script '__global_object_depths.gml'

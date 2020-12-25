@@ -1,0 +1,3 @@
+_FULLSCREEN = -1;
+_MOUSE = -1;
+
